@@ -1,6 +1,5 @@
 
 import numpy as np
-
 # Creating the random vector of size 15 having only Integers in the range 1-20
 arr = np.random.randint(1, 20, 15, dtype=int)
 print("Original array:")
